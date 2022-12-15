@@ -1,0 +1,6 @@
+PATCH http://localhost:3000/api/products/1
+Content-Type: application/json
+
+{
+  "username":"sriram"
+}
